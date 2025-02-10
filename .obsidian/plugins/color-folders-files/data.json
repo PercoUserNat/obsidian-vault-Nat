@@ -1,0 +1,84 @@
+{
+  "styles": {
+    "1 - Folder time": {
+      "backgroundColor": "#fcff42",
+      "textColor": "#000000"
+    },
+    "CEJM": {
+      "textColor": "#000000",
+      "applyToSubfolders": false,
+      "isBold": true,
+      "backgroundColor": "#ffea00"
+    },
+    "COURS/CEJM": {
+      "backgroundColor": "#fef734",
+      "isBold": false,
+      "textColor": "#000000",
+      "isItalic": false
+    },
+    "COURS/Maths": {
+      "backgroundColor": "#38ffbd",
+      "textColor": "#000000",
+      "isBold": false,
+      "isItalic": false
+    },
+    "COURS/SUPPORT_INFO": {
+      "backgroundColor": "#ffa552",
+      "isBold": false,
+      "textColor": "#000000"
+    },
+    "COURS/Cyber": {
+      "backgroundColor": "#61a5ff",
+      "isBold": false,
+      "textColor": "#000000"
+    },
+    "COURS/Cyber/PIA/lien dl.md": {
+      "applyToFiles": false
+    },
+    "BTS SIO/COURS/CEJM": {
+      "backgroundColor": "#ffea61",
+      "textColor": "#000000",
+      "isBold": false
+    },
+    "BTS SIO/COURS/Cyber": {
+      "textColor": "#000000",
+      "backgroundColor": "#61caff"
+    },
+    "BTS SIO/COURS/Maths": {
+      "textColor": "#000000",
+      "backgroundColor": "#67fea8"
+    },
+    "BTS SIO/COURS/SUPPORT_INFO": {
+      "textColor": "#000000",
+      "backgroundColor": "#ff8080"
+    },
+    "BTS SIO/Référenciel/OPEN IN DEFAULT.md": {
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "BTS SIO_&_ENTREPRISE/COURS/CEJM": {
+      "textColor": "#000000",
+      "opacity": 1,
+      "backgroundColor": "#fff194"
+    },
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber": {
+      "textColor": "#000000",
+      "backgroundColor": "#8bdbfe"
+    },
+    "BTS SIO_&_ENTREPRISE/COURS/Maths": {
+      "textColor": "#000000",
+      "backgroundColor": "#ffa3fc"
+    },
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO": {
+      "backgroundColor": "#8099ff",
+      "textColor": "#000000"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

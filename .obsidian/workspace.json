@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "48166ff6867cb0ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ff6e275e1f3efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b7028f083098bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN/CoursVlan.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CoursVlan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88d360617e4277f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9dd39b21eef5c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926906a11519afe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ab90b1a36fe4fc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96f9ed76a8542e9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "52dbb3458d366b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "62652143c49dcefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc5856c0c1d34ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BTS SIO/Référenciel/SISR_Bloc de compétence 1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SISR_Bloc de compétence 1"
+            }
+          },
+          {
+            "id": "44415a5f9c77edca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BTS SIO/Référenciel/SISR_Bloc de compétence 1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SISR_Bloc de compétence 1"
+            }
+          },
+          {
+            "id": "81e8c2e4d5589061",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58bde43cc9ac159a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BTS SIO/Référenciel/SISR_Bloc de compétence 1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SISR_Bloc de compétence 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "926906a11519afe1",
+  "lastOpenFiles": [
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Test de Stabilité.md",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN/CoursVlan.pdf",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/BlueScreenView.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/commande SFC.md",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/TP/GPG (décryptage)/GNU tuto.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Commande SFC/sfc.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Commande SFC",
+    "BTS SIO_&_ENTREPRISE/Untitled/desktop.ini",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE",
+    "Untitled 1/desktop.ini",
+    "Perso",
+    "Untitled",
+    "PRO",
+    "Entreprise",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/TP/GPG (décryptage)/textecrypt.txt.md",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/Protocole ARP/Résumer ARP.md",
+    "BTS SIO_&_ENTREPRISE/image des cours/Pasted image 20250206092120.png",
+    "BTS SIO_&_ENTREPRISE/image des cours/Pasted image 20250206090106.png",
+    "BTS SIO/COURS/SUPPORT_INFO/TP/GPG (GNU Privacy Guard/textecrypt_decrypted.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/EBIOS/EBIOS.md",
+    "BTS SIO/Référenciel/Progression.md",
+    "BTS SIO_&_ENTREPRISE/Référenciel/OPEN IN DEFAULT.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/poste en cyber.webp",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/Linux/Commandes linux/commandes linux.png",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/lien dl.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/PIA.md",
+    "().md",
+    "[La méthode EBIOS Risk Manager.md",
+    "COURS/Cyber/Liens.md",
+    "BTS SIO_&_ENTREPRISE/COURS/CEJM/ECONOMIE/Régulation activité économique.md",
+    "COURS/Maths/1-cours.md",
+    "COURS/CEJM/Droit.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas"
+  ]
+}
