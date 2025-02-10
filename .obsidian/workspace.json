@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3603acc67a7461fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8258ce96429122d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9d7947fdbd9dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sync Obsi_Github proc/proc git dépot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proc git dépot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e7c1fc45267b582",
+    "type": "split",
+    "children": [
+      {
+        "id": "9adc6dad587efd31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4be472ce0845bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "600dd77bd6991e63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "477c0635889b3622",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10f110604be35ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a85d7cd673f321d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6038809a08c5f2d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6605110a8a85bbbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e45e552f69ba2bfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff395b4f8ef2be2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "ee9d7947fdbd9dd0",
+  "lastOpenFiles": [
+    "Sync Obsi_Github proc/Actualiser Dépôt.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/NAS.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/BlueScreenView.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/commande SFC.md",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Test de Stabilité.md",
+    "BTS SIO_&_ENTREPRISE/COURS/CEJM/DROIT/DROIT_COURS.pdf",
+    "Sans titre.canvas",
+    "2025-02-10.md",
+    "Sync Obsi_Github proc/proc git dépot.md",
+    "Sync Obsi_Github proc",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Domaine d'activité 3.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Domaine d'activité 2.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Domaine d'activité 1.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Bloc de compétence 3.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Bloc de compétence 2.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/SISR_Bloc de compétence 1.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/Progression Support et mise à disposition de services informatiques.pdf",
+    "BTS SIO_&_ENTREPRISE/Référenciel/OPEN IN DEFAULT.md",
+    "BTS SIO_&_ENTREPRISE/Référenciel",
+    "BTS SIO_&_ENTREPRISE/image des cours/Pasted image 20250206092120.png",
+    "BTS SIO_&_ENTREPRISE/image des cours/Pasted image 20250206090106.png",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/TP/GPG (décryptage)/textecrypt.txt.md",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/TP/GPG (décryptage)/GNU tuto.md",
+    "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/Protocole ARP/Résumer ARP.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/PIA.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/lien dl.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/Linux/Commandes linux/commandes linux.png",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/EBIOS/EBIOS.md",
+    "BTS SIO_&_ENTREPRISE/COURS/Cyber/poste en cyber.webp",
+    "BTS SIO_&_ENTREPRISE/COURS/CEJM/ECONOMIE/Régulation activité économique.md",
+    "Dieu & Me/Prière/Moi.md",
+    "Dieu & Me/Prière/Frères & Soeurs en christ.md",
+    "Dieu & Me/Tout est possible/Enseignement.md",
+    "Dieu & Me/Tips Evangile.md",
+    "Sport/exercice.md",
+    "Sport/alimentation.md",
+    "Témoignage/Témoignage écrit.md",
+    "verset Dieu.jpeg",
+    "Témoignage/conseil.md"
+  ]
+}

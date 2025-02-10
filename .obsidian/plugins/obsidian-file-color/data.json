@@ -1,0 +1,44 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "sUB7Vzv-SOf0lcyaB_Rho",
+      "name": "Yellow",
+      "value": "#fed35d"
+    },
+    {
+      "id": "WqU70UJ8k6yV5z6eueTTH",
+      "name": "Blue",
+      "value": "#70d4ff"
+    },
+    {
+      "id": "RjfX34z4N2AGZxJp_TexQ",
+      "name": "Green",
+      "value": "#5cff7c"
+    },
+    {
+      "id": "ipPQK2CvAtwjXycjNPXV8",
+      "name": "Red",
+      "value": "#ff7a7a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "BTS SIO_&_ENTREPRISE/COURS/CEJM",
+      "color": "sUB7Vzv-SOf0lcyaB_Rho"
+    },
+    {
+      "path": "BTS SIO_&_ENTREPRISE/COURS/Cyber",
+      "color": "WqU70UJ8k6yV5z6eueTTH"
+    },
+    {
+      "path": "BTS SIO_&_ENTREPRISE/COURS/Maths",
+      "color": "RjfX34z4N2AGZxJp_TexQ"
+    },
+    {
+      "path": "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO",
+      "color": "ipPQK2CvAtwjXycjNPXV8"
+    }
+  ]
+}
