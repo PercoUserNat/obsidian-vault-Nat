@@ -77,6 +77,10 @@
     "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO": {
       "backgroundColor": "#8099ff",
       "textColor": "#000000"
+    },
+    "Sync Obsi_Github proc/Actualiser Dépôt.md": {
+      "backgroundColor": "#bc3434",
+      "textColor": "#000000"
     }
   },
   "presets": {},

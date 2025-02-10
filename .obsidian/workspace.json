@@ -11,12 +11,10 @@
             "id": "88b7028f083098bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN/CoursVlan.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CoursVlan"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,10 +166,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "926906a11519afe1",
+  "active": "88b7028f083098bf",
   "lastOpenFiles": [
-    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Test de Stabilité.md",
+    "Sync Obsi_Github proc/Actualiser Dépôt.md",
+    "Sync Obsi_Github proc/proc git dépot.md",
     "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN/CoursVlan.pdf",
+    "Sync Obsi_Github proc",
+    "BTS SIO_&_ENTREPRISE/ENTREPRISE/Test de Stabilité.md",
     "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/Support de cours/VLAN",
     "BTS SIO_&_ENTREPRISE/ENTREPRISE/BlueScreenView.md",
     "BTS SIO_&_ENTREPRISE/ENTREPRISE/commande SFC.md",
@@ -182,7 +183,6 @@
     "BTS SIO_&_ENTREPRISE/ENTREPRISE",
     "Untitled 1/desktop.ini",
     "Perso",
-    "Untitled",
     "PRO",
     "Entreprise",
     "BTS SIO_&_ENTREPRISE/COURS/SUPPORT_INFO/TP/GPG (décryptage)/textecrypt.txt.md",
