@@ -2,7 +2,7 @@
 created: 2025-02-10T11:39
 updated: 2025-02-10T11:39
 ---
-D'accord ! Je vais te guider étape par étape pour utiliser **GitHub** afin de synchroniser tes notes Obsidian avec **Git**. Si tu n'as pas l'habitude d'utiliser GitHub, il y a quelques étapes à suivre, mais ne t'inquiète pas, je vais détailler tout le processus pour toi.
+ddddddddD'accord ! Je vais te guider étape par étape pour utiliser **GitHub** afin de synchroniser tes notes Obsidian avec **Git**. Si tu n'as pas l'habitude d'utiliser GitHub, il y a quelques étapes à suivre, mais ne t'inquiète pas, je vais détailler tout le processus pour toi.
 
 ### Étape 1 : Créer un compte GitHub
 
