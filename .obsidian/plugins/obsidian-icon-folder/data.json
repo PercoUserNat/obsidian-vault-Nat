@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArchiveRestore",
-      "LiArrowDownToLine",
-      "LiArrowBigDownDash"
+      "LiAtSign",
+      "LiAlbum",
+      "LiArchive",
+      "LiBadgeDollarSign",
+      "LiArchiveRestore"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,6 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/lien dl.md": "LiArrowDownToLine",
-  "Sync Obsi_Github proc/Actualiser Dépôt.md": "LiArchiveRestore"
+  "bank image": "LiArchive",
+  "Sync Obsi_Github proc/Actualiser Dépôt.md": "LiArchiveRestore",
+  "1_BTS SIO_&_ENTREPRISE": "LiAlbum",
+  "1_BTS SIO_&_ENTREPRISE/COURS/Cyber/PIA/lien dl.md": "LiArrowDownToLine",
+  "2_Administratif": "LiAtSign"
 }

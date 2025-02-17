@@ -81,6 +81,10 @@
     "Sync Obsi_Github proc/Actualiser Dépôt.md": {
       "backgroundColor": "#bc3434",
       "textColor": "#000000"
+    },
+    "BTS SIO_&_ENTREPRISE/COURS/Anglais": {
+      "textColor": "#000000",
+      "backgroundColor": "#88fe86"
     }
   },
   "presets": {},
