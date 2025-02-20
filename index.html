@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Obsidian Vault</title>
+  <!-- Inclusion de Marked.js depuis un CDN -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
@@ -12,19 +13,26 @@
 
   <script>
     // Fonction pour charger un fichier Markdown
-    async function loadMarkdown(file) {
+    async function loadMarkdown(filePath) {
       try {
-        const response = await fetch(file);
+        // Charger le fichier Markdown
+        const response = await fetch(filePath);
+        if (!response.ok) {
+          throw new Error("Fichier introuvable : " + filePath);
+        }
         const markdown = await response.text();
-        // Convertir Markdown en HTML avec Marked.js
+
+        // Convertir le Markdown en HTML avec Marked.js
         document.getElementById('content').innerHTML = marked(markdown);
       } catch (error) {
-        console.error("Erreur lors du chargement du fichier :", error);
+        console.error("Erreur :", error);
+        document.getElementById('content').innerText = "Impossible de charger le fichier.";
       }
     }
 
-    // Charger un fichier spécifique (exemple : "README.md")
-    loadMarkdown('README.md'); // Remplace par le chemin de ton fichier Markdown
+    // Charger une note spécifique (remplace par le chemin correct)
+    loadMarkdown('./1_BTS_SIO_&_ENTREPRISE/README.md'); // Exemple : remplace par un fichier réel
   </script>
 </body>
 </html>
+
