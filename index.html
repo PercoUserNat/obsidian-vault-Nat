@@ -1,11 +1,30 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Accueil</title>
+  <title>Obsidian Vault</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-  <h1>Bienvenue sur mon site GitHub Pages</h1>
-  <p>Ce site présente ma base de données Obsidian.</p>
+  <h1>Ma Base de Données Obsidian</h1>
+  <div id="content"></div>
+
+  <script>
+    // Fonction pour charger un fichier Markdown
+    async function loadMarkdown(file) {
+      try {
+        const response = await fetch(file);
+        const markdown = await response.text();
+        // Convertir Markdown en HTML avec Marked.js
+        document.getElementById('content').innerHTML = marked(markdown);
+      } catch (error) {
+        console.error("Erreur lors du chargement du fichier :", error);
+      }
+    }
+
+    // Charger un fichier spécifique (exemple : "README.md")
+    loadMarkdown('README.md'); // Remplace par le chemin de ton fichier Markdown
+  </script>
 </body>
 </html>
